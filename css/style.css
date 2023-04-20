@@ -135,7 +135,7 @@ scale: none;
     letter-spacing: .2mm;
 }
 .findings {
-    width: 32%;
+    width: 400px;
     text-align: justify;
     position: fixed;
     left: 450px;
@@ -145,7 +145,7 @@ scale: none;
     color:#ffe4bf8a;
 }
 .findings2 {
-    width: 32%;
+    width: 400px;
     text-align: justify;
     position: fixed;
     left: 450px;
@@ -155,7 +155,7 @@ scale: none;
     color:#ffe4bf8a;
 }
 .findings3 {
-    width: 32%;
+    width: 400px;
     text-align: justify;
     position: fixed;
     left: 450px;
